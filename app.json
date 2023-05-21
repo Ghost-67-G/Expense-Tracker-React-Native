@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c0aef71-cf02-464a-b007-156d3ef2e5ef"
+      }
+    },
+    "owner": "ayannaseer"
   }
 }
